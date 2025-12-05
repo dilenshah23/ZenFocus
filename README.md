@@ -120,27 +120,6 @@ ZenFocus/
 - **Body**: SF Rounded Regular
 - **Captions**: SF Rounded Regular (smaller)
 
-## 💰 Monetization Strategy
-
-### Free Tier
-- Basic Pomodoro timer (25/5)
-- 3 preset timers
-- Basic statistics
-- 2 breathing exercises
-- 3 ambient sounds
-
-### Premium ($29.99/year or $4.99/month)
-- Unlimited custom timers
-- Full Apple Watch integration
-- All breathing exercises
-- All ambient sounds
-- Advanced analytics
-- iCloud sync
-- Priority support
-
-### Lifetime ($79.99)
-- All premium features forever
-
 ## 🚀 Deployment Checklist
 
 ### Before App Store Submission
