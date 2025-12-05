@@ -4,8 +4,6 @@
 
 ZenFocus combines the proven Pomodoro technique with Apple Watch health data to help you focus smarter, not harder. Get personalized break recommendations based on your actual stress levels.
 
-![ZenFocus Banner](docs/banner.png)
-
 ## ✨ Features
 
 ### 🎯 Smart Focus Timer
